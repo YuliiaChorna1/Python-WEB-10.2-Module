@@ -1,0 +1,15 @@
+**/build/**/*
+**/env/**/*
+**/venv/**/*
+**/logs/**/*
+**/*.bin
+**/*.pkl
+**/*.db
+**/*.sqlite
+**/*.lock
+**/*.toml
+**/*.zip
+
+
+**/__pycache__/**/*
+**/.idea/**/*
